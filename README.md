@@ -5,7 +5,7 @@
 We will be building a RESTful, JSON resource API shopping cart application! This project will be entirely back-end, meaning we can test all of our endpoints through `Postman` app.
 
 ## Requirements / Tools
-- PostgreSQL
+- PostgreSQL 
 - Node.js / Express.js
 - Knex.js (built-in library methods)
 
